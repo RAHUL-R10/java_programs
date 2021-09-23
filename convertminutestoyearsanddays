@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class ConvertMinToYearsAndDays {
 	public static void main(String[] Strings) {
 
-
         double minutesInYear = 60 * 24 * 365;
 
         Scanner input = new Scanner(System.in);
